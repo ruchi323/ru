@@ -1,0 +1,2 @@
+# ru
+to learn git 
